@@ -1,0 +1,23 @@
+
+table, td {
+	border:solid black 2px;
+}
+
+table {
+	border-collapse: collapse;
+	width:80%;
+	text-align:center;
+	margin:auto;
+}
+
+#col1 {
+	width:40%;
+}
+
+#col2, #col3 {
+	width:30%;
+}
+
+td:first-child {
+	text-align:left;
+}
