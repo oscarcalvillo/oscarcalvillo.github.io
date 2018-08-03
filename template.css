@@ -10,7 +10,6 @@ body {
 	padding:1em;
 	background:linear-gradient(to right,lightblue,blue,lightblue);
 	text-align:center;
-
 }
 
 #page_title {
@@ -59,3 +58,4 @@ body {
 	margin-top:.75em;
 	padding: 5px;
 	line-height: 1.3;
+}

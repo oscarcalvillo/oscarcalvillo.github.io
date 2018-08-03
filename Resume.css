@@ -9,7 +9,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	padding:1em;
 	background:linear-gradient(to right,lightblue,blue,lightblue);
-	margin:0px;
+	text-align:center;
 }
 
 #page_title {
@@ -29,7 +29,7 @@ body {
 #top_nav {
 	text-align:right;
 	width:85%;
-	margin-bottom:20px;
+	margin-bottom: 1em;
 }
 
 #current_page{
@@ -51,7 +51,7 @@ body {
 .body_section {
 	text-align: left;
 	width:70%;
-	height:34em;
+	height:28em;
 	border:.3em solid black;
 	background-color: snow;
 	margin:auto;
@@ -60,25 +60,13 @@ body {
 	line-height: 1.3;
 }
 
-#description {
-	padding: 20px;
-	text-decoration-color: dimgrey;
-}
-
-#me {
-	border:darkgrey 3px solid;
-	box-shadow: 7px 7px 7px lightgrey;
-	height: 25em;
-	float:left;
-	margin-right: .75em;
+#pdf {
+	height:80%;
+	width:90%;
+	margin:5%;
 }
 
 #home {
 	width:200px;
 	float:left;
 }
-
-#part1 {
-	margin-top:-2px;
-}
-
